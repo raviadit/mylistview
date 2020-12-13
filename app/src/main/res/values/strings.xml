@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_presiden">Nama Presiden</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>B.J.Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Megawati</item>
+        <item>Susilo Bambang Yudhoyono</item>
+        <item>Jokowi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ir.H.Soekarno adalah seorang tokoh perjuangan yang memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda, Ia adalah Proklamator Kemerdekaan Indonesia (bersama dengan Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945. Soekarno adalah yang pertama kali mencetuskan konsep mengenai Pancasila sebagai dasar negara Indonesia dan ia sendiri yang menamainya.</item>
+        <item>Jenderal Besar TNI (Purn.) H. M. Soeharto, di dunia internasional, terutama di Dunia Barat, Soeharto sering dirujuk dengan sebutan "The Smiling General" (bahasa Indonesia: "Sang Jenderal yang Tersenyum") karena raut mukanya yang senantiasa tersenyum dan menunjukkan keramahan. Meski begitu, dengan berbagai kontroversi yang terjadi ia sering juga disebut sebagai diktator bagi yang berseberangan dengannya.</item>
+        <item>B. J. Habibie merupakan Wakil Presiden dan juga Presiden Indonesia dengan masa jabatan terpendek.Dari sekian banyak presiden Indonesia, B.J.Habibie merupakan satu-satunya Presiden yang berasal dari etnis Gorontalo, Sulawesi dari garis keturunan Ayahnya yang berasal dari Kabila, Gorontalo dan etnis Jawa dari ibunya yang berasal dari Yogyakarta.</item>
+        <item>Dr.(H.C.) K. H. Abdurrahman Wahid atau yang akrab disapa Gus Dur adalah tokoh Muslim Indonesia dan pemimpin politik yang menjadi Presiden Indonesia yang keempat dari tahun 1999 hingga 2001. Ia menggantikan Presiden B.J. Habibie setelah dipilih oleh Majelis Permusyawaratan Rakyat hasil Pemilu 1999. Penyelenggaraan pemerintahannya dibantu oleh Kabinet Persatuan Nasional.</item>
+        <item> Dyah Permata Megawati Setyawati Soekarnoputri, Ia merupakan presiden wanita Indonesia pertama dan putri dari presiden Indonesia pertama, Soekarno, yang kemudian mengikuti jejak ayahnya menjadi Presiden Indonesia.</item>
+        <item>Prof. Dr. H. Susilo Bambang Yudhoyono, M.A, Ia berhasil melanjutkan pemerintahannya untuk periode kedua dengan kembali memenangkan Pemilu Presiden 2009, kali ini bersama Wakil Presiden Boediono. Sejak era reformasi dimulai, Susilo Bambang Yudhoyono merupakan Presiden Indonesia pertama yang menyelesaikan masa kepresidenan selama 5 tahun dan berhasil terpilih kembali untuk periode kedua.</item>
+        <item>Ir. H. Joko Widodo menjadi Presiden Indonesia pertama sepanjang sejarah yang bukan berasal dari latar belakang elite politik atau militer Indonesia. Ia terpilih bersama Wakil Presiden Muhammad Jusuf Kalla dan kembali terpilih bersama Wakil Presiden Maaruf Amin dalam Pemilu Presiden 2019. Jokowi pernah menjabat Gubernur DKI Jakarta sejak 15 Oktober 2012 hingga 16 Oktober 2014 didampingi Basuki Tjahaja Purnama sebagai wakil gubernur.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/a_soekarno</item>
+        <item>@drawable/b_soeharto</item>
+        <item>@drawable/c_habibie</item>
+        <item>@drawable/d_gusdur</item>
+        <item>@drawable/e_megawati</item>
+        <item>@drawable/f_sby</item>
+        <item>@drawable/g_jokowi</item>
+    </array>
+</resources>
